@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+#header_wrap .inner {
+    padding: 200px 10px 30px 10px;
+}
+
+#header_wrap {
+  background: transparent;
+}
+
+#footer_wrap {
+  background: transparent;
+}
+
+body {
+  background: #000 url("https://www.ncsa.illinois.edu/wp-content/uploads/2021/09/new_bldg-1024x681.jpg") no-repeat top center;
+  background-size: 600px;
+  color: transparent;
+
+}
+
+h1 {
+  color: #222222;
+}
+
+p {
+  color: #222222;
+}
