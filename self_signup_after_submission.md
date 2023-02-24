@@ -7,4 +7,5 @@ You will receive an email at that address with a link. Please
 click on the link to verify your address.
 
 This is a placeholder to demonstrate the Submission Redirect URL
-functionality for COmanage Registry enrollment flow configuration.
+functionality for
+COmanage Registry enrollment flow configuration.
